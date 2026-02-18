@@ -39,11 +39,12 @@ export const templateSurveyQuestions = [
             { id: 2, text: "Voiture passager", next: "Q3" },
             { id: 3, text: "Application de covoiturage", next: "Q3" },
             { id: 4, text: "Bus Astuce – ligne 11", next: "end" },
-            { id: 5, text: "Navette (bus ou fluviale)", next: "end" },
-            { id: 6, text: "P+R + réseau Astuce", next: "end" },
-            { id: 7, text: "Vélo", next: "end" },
-            { id: 8, text: "Marche à pied", next: "end" },
-            { id: 9, text: "Autre", next: "Q2_Autre" }
+            { id: 5, text: "Navette Bus", next: "end" },
+             {id: 6, text: "Navette Fluviale", next: "end"},
+            { id: 7, text: "P+R + réseau Astuce", next: "end" },
+            { id: 8, text: "Vélo", next: "end" },
+            { id: 9, text: "Marche à pied", next: "end" },
+            { id: 10, text: "Autre", next: "Q2_Autre" }
         ]
     },
 
